@@ -1,1 +1,1 @@
-# CodeIt6.1 - Fortune Telling DApp
+# CodeIt6.1 - Fortune Telling DApp without GUI
